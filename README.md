@@ -12,10 +12,14 @@ Este repositório tem como objetivo organizar exercícios simples de Python, com
 - Entrada e saída de dados
 - Variáveis
 - Condições
-- Repetições
-- Listas
-- Funções
+- Operações matemáticas
 - Resolução de problemas
+
+## Exercícios
+
+- `ola_mundo.py` — primeiro exercício com entrada e saída de dados.
+- `calculadora_simples.py` — calculadora simples com soma, subtração, multiplicação e divisão.
+- `par_ou_impar.py` — verificador de número par ou ímpar usando condição `if/else`.
 
 ## Objetivo
 
